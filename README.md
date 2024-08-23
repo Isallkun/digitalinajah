@@ -19,7 +19,7 @@ This project is a minimalistic NFT Certificate Generator DApp that allows users 
 - **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express
 - **Blockchain Integration:** Internet Computer (ICP)
-- **Storage:** Web3.Storage for storing the image files (optional)
+- **Storage:** Web3.Storage for storing the image files
 
 ## Installation
 
