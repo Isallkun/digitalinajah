@@ -2,7 +2,7 @@
 
 ## Overview
 
-Digitalinajah.png
+![Digitalinajah.png](Digitalinajah.png)
 
 This project is a minimalistic NFT Certificate Generator DApp that allows users to input a certificate number and name, then generates a certificate as an image. The image can be minted as an NFT on the Internet Computer blockchain.
 
